@@ -4,7 +4,7 @@ This is a project mainly for front-end part where i have used
 HTML and CSS with Adob xd for assets
 heroku is used for deployment
 
-[Live Heroku Deployment] (https://losangeles-anugrah.herokuapp.com/)
+[Live Heroku Deployment] (https://losangeles-1.anugrahmasih.repl.co/)
 
 
 
